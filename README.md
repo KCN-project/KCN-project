@@ -16,8 +16,8 @@
 + 강희연  
     + 학교: 선문대학교  
     + 학과: 글로벌소프트웨어학과  
-    + GitHub: [https://github.com/leesueyeon](https://github.com/leesueyeon)  
-    + e-mail: wkdals0105@naver.com    
+    + GitHub: [https://github.com/gmldus0814](https://github.com/gmldus0814)  
+    + e-mail: gmldus0814@naver.com
  
 + 조하연
     + 학교: 선문대학교
