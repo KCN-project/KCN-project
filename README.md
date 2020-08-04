@@ -11,8 +11,8 @@
     + 학교: 선문대학교
     + 학과: 글로벌소프트웨어학과
     + GitHub: [https://github.com/tmddnr712](https://github.com/tmddnr712)
-    + e-mail: seonmin664@gmail.com
-
+    + e-mail: nsu712@gmail.com
+    
 + 강희연  
     + 학교: 선문대학교  
     + 학과: 글로벌소프트웨어학과  
