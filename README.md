@@ -26,6 +26,7 @@
     + e-mail: daskided7563@gmail.com
 
 ### stop_not_stop
-
+    > train_network
+    > test_network
 
 ### fox_not_fox
