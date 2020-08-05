@@ -5,6 +5,8 @@
 
 ## Study CNN
 
+### SW집중교육과정 Machine Learning 이정규교수님 강의(교수님 코드)
+
 
 ### 구성원 소개
 + 노승욱
@@ -26,9 +28,11 @@
     + e-mail: daskided7563@gmail.com
 
 ### stop_not_stop
+## stop표지판을 인식하는 프로그램
     > train_network
     > test_network
 
 ### fox_not_fox
+## 여우 얼굴을 인식하는 프로그램
     > train_network_foxes
     > test_network_foxes
