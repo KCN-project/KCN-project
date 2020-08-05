@@ -30,3 +30,5 @@
     > test_network
 
 ### fox_not_fox
+    > train_network_foxes
+    > test_network_foxes
