@@ -23,7 +23,7 @@
  
 + 조하연
     + 학교: 선문대학교
-    + 학과: 글로벌소프트웨어학과
+    + 학과: IT경영학과
     + Github: [https://github.com/yeon-ha](https://github.com/yeon-ha)
     + e-mail: daskided7563@gmail.com
 
